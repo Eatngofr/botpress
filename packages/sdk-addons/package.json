@@ -8,7 +8,7 @@
     "type:check": "tsc --noEmit"
   },
   "dependencies": {
-    "@sentry/node": "^7.53.1",
+    "@sentry/node": "^7.75.0",
     "typescript": "^4.9.4",
     "@botpress/sdk": "workspace:*"
   }
