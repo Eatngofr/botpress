@@ -14,7 +14,7 @@
   "dependencies": {
     "@bpinternal/yargs-extra": "^0.0.3",
     "chalk": "^4.1.2",
-    "glob": "^9.3.4",
+    "glob": "^12.0.0",
     "prompts": "^2.4.2",
     "semver": "^7.5.1",
     "yaml": "^2.3.1",
